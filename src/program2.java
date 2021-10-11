@@ -3,6 +3,7 @@ public class program2 {
     {
 
         System.out.println("hello world");
+        System.out.println("This is my first program");
 
 
 
